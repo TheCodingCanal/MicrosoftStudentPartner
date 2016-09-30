@@ -1,0 +1,57 @@
+GENERAL
+    Where I work: https://www.inlandpackaging.com/
+    Microsoft Student Partner: https://msdn.microsoft.com/en-us/microsoftstudentpartners.aspx
+    Our facebook: https://www.facebook.com/groups/MicrosoftUWL/
+    WiCS/CODERS facebook: https://www.facebook.com/groups/1014586898639948/
+    Personal social media
+        Youtube: https://www.youtube.com/channel/UCKa1UOG4ORxGnkKpTUAgO5A
+        Twitter: https://twitter.com/JDahirKanehl
+        LinkedIn: https://www.linkedin.com/in/jesse-dahir-kanehl-2b4aa031
+        Github: https://github.com/Jessman2014
+        Email: dahir-ka.jess@uwlax.edu
+
+ALL STUDENTS
+    Antivirus: https://www.uwlax.edu/its/antivirus-malware-information/
+    Office365 in education: https://products.office.com/en-us/student/office-in-education
+    Open Office: https://www.openoffice.org/
+    Libre Office: https://www.libreoffice.org/
+
+    Learning - MOOCS and Tutorials
+        Edx: https://www.edx.org/
+        MitX (MIT open courseware): https://ocw.mit.edu/courses/mitx-related-courseware/
+        Coursera: https://www.coursera.org/
+        Khan Academy: https://www.khanacademy.org/
+
+COMPUTER SCIENCE/INFORMATION SYSTEMS
+    Microsoft Related
+        Microsoft Imagine (formerly Dreamspark): https://imagine.microsoft.com/
+        Visual Studio Dev Essentials: https://www.visualstudio.com/dev-essentials
+            Visual Studio: https://www.visualstudio.com/
+            Visual Studio Code: https://code.visualstudio.com/
+            Azure Credits: https://azure.microsoft.com/
+            Sql Server: https://www.microsoft.com/en-us/cloud-platform/sql-server
+            Windows Server: https://www.microsoft.com/en-us/cloud-platform/windows-server
+            Xamarin and Xamarin Studio: https://www.xamarin.com/
+            Unity Game Engine: https://unity3d.com/
+            
+            Pluralsight: https://www.pluralsight.com/
+            Microsoft Virtual Academy: https://mva.microsoft.com/
+            
+            MSDN Magazine: https://msdn.microsoft.com/en-us/magazine/msdn-magazine-issues.aspx
+        Podcasts
+            DotNetRocks: http://dotnetrocks.com/
+            RunAsRadio: http://runasradio.com/
+            Many others: http://www.hanselman.com/blog/HanselmanListOfPodcastsForNETProgrammers.aspx
+    Non-Microsoft Tools
+        Github Student Developer Pack: https://education.github.com/pack
+        Unreal Game Engine: https://www.unrealengine.com/what-is-unreal-engine-4
+        JetBrains: https://www.jetbrains.com/student/
+        Tutorials
+            Udacity: https://www.udacity.com/
+            Code School: https://www.codeschool.com/
+            Code Academy: https://www.codeacademy.com/
+            W3 Schools: http://www.w3schools.com/
+        Podcasts
+            Programming Throwdown: http://www.programmingthrowdown.com/
+            Javascript Jabber: https://devchat.tv/js-jabber
+            How to Program with Java: https://howtoprogramwithjava.com/java-podcast/
