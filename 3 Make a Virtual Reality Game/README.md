@@ -17,4 +17,5 @@ Unity game engine http://unity3d.com
 Google VR - cardboard and daydream docs https://developers.google.com/vr/unity/  
 Google VR SDK https://github.com/googlevr/gvr-unity-sdk/archive/master.zip  
 Unity Tutorials https://unity3d.com/learn/tutorials  
-NurFaceGames Tutorial https://www.youtube.com/watch?v=saPTSdvacLE  
+NurFaceGames Tutorial to build basic VR game https://www.youtube.com/watch?v=saPTSdvacLE
+VR Maze Game https://www.youtube.com/watch?v=Pgvpj63823Q  
