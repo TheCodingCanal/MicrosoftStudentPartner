@@ -1,4 +1,4 @@
-# Links for Make a Virtual Reality Game workshop
+# Links for Technology Your Future Employer Wants You to Know discussion
 
  **GENERAL**  
  Where I work: https://www.inlandpackaging.com/  
